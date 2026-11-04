@@ -19,5 +19,5 @@ review: https://youtu.be/CZoBbXeFOkw
 ### Disclaimer
 
 > [!IMPORTANT]
-> **GTA5RP** — игровой RolePlay-проект на базе Grand Theft Auto V, официальный сайт: [gta5rp.com](https://gta5rp.com).
+> **GTA5RP** - игровой RolePlay-проект на базе Grand Theft Auto V, официальный сайт: [gta5rp.com](https://gta5rp.com).
 > **limplxx launcher** является независимым программным обеспечением, не относится к официальным продуктам GTA5RP, не связан с администрацией или разработчиками проекта и не имеет официальной аффилированности с GTA5RP.
