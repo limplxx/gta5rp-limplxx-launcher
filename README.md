@@ -16,6 +16,14 @@ review: https://youtu.be/CZoBbXeFOkw
 
 ---
 
+## Безопасность
+
+Лаунчер хранит данные для входа локально и никуда их не передает.
+
+У limplxx launcher нет собственных серверов, все данные лаунчер получает через сервера [gta5rp.com](https://gta5rp.com).
+
+---
+
 ### Disclaimer
 
 > [!IMPORTANT]
